@@ -2,9 +2,13 @@
 
   <p>
     -Bu web sitesinde Youtube clone oluşturuldu.
+    </br>
     -React teknolojisi kullanıldı.
+    </br>
     -Material UI kullanıldı.
+    </br>
     -RapidAPI kullanarak kaynaklardan veri çekildi.
+    </br>
     -Tüm cihazlara uygun olarak Responsive edildi(Telefon,Tablet,PC)
     </p>
 
