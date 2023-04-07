@@ -16,6 +16,7 @@
 
 » Html / Css <br>
 » React JS
+ </br>
 » Using API
 
 <h2>Projenin Ekran Görüntüleri 📸</h2>
